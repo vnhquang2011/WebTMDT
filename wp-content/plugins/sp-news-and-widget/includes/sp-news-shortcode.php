@@ -184,7 +184,7 @@ function wpnaw_get_news( $atts, $content = null ){
 									<div class="news-short-content">                                    
 										<?php echo string_limit_newswords( $post->ID, $excerpt, $words_limit, '...'); ?>
 									</div>                				
-									<a href="<?php the_permalink(); ?>" class="news-more-link"><?php _e( 'Read More', 'sp-news-and-widget' ); ?></a>	
+									<a href="<?php the_permalink(); ?>" class="news-more-link"><?php _e( 'Đọc tiếp', 'sp-news-and-widget' ); ?></a>	
 								<?php } else {             				
 									the_content();
 								} ?>
