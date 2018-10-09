@@ -12,3 +12,8 @@ Tags: e-commerce, two-columns, left-sidebar, right-sidebar, custom-header, custo
 This theme, like WordPress, is licensed under the GPL.
 Use it to make something cool, have fun, and share what you've learned with others.
 */
+
+div.qty {
+    float: left;
+    padding: 10px;
+}
