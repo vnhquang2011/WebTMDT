@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: YITH WooCommerce Wishlist\n"
 "POT-Creation-Date: 2018-10-09 20:34+0700\n"
-"PO-Revision-Date: 2018-10-09 20:40+0700\n"
+"PO-Revision-Date: 2018-10-10 00:21+0700\n"
 "Last-Translator: \n"
 "Language-Team: Your Inspiration Themes <plugins@yithemes.com>\n"
 "Language: vi_VN\n"
@@ -584,7 +584,7 @@ msgstr ""
 #: ../includes/class.yith-wcwl-shortcode.php:259
 #: ../includes/class.yith-wcwl-ui.php:164
 msgid "Share on:"
-msgstr "Chia sẽ:"
+msgstr "Chia sẻ:"
 
 #: ../includes/class.yith-wcwl-ui.php:118
 #: ../includes/class.yith-wcwl-ui.php:200
