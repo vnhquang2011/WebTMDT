@@ -74,9 +74,9 @@ class Tyche_Breadcrumbs {
 			'separator'              => get_theme_mod( 'tyche_blog_breadcrumb_menu_separator', '/' ),
 			'show_post_type_archive' => '1',
 			'show_terms'             => get_theme_mod( 'tyche_blog_breadcrumb_menu_post_category', 1 ),
-			'home_label'             => esc_html__( 'Home', 'tyche' ),
+			'home_label'             => esc_html__( 'Trang chủ', 'tyche' ),
 			'tag_archive_prefix'     => esc_html__( 'Tag:', 'tyche' ),
-			'search_prefix'          => esc_html__( 'Search:', 'tyche' ),
+			'search_prefix'          => esc_html__( 'Tìm kiếm:', 'tyche' ),
 			'error_prefix'           => esc_html__( '404 - Page not Found', 'tyche' ),
 		);
 
@@ -93,7 +93,7 @@ class Tyche_Breadcrumbs {
 		$this->search_prefix          = $defaults['search_prefix'];
 		$this->error_prefix           = $defaults['error_prefix'];
 
-		$this->home_label = __( 'Home ', 'tyche' );
+		$this->home_label = __( 'Trang chủ ', 'tyche' );
 	}
 
 	/**

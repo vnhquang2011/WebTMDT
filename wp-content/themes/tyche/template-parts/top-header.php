@@ -23,7 +23,7 @@
 						<!-- Cart -->
 						<li class="top-cart">
 							<a href="<?php echo esc_url( Tyche_Helper::get_woocommerge_page( 'cart' ) ); ?>"><i class="fa fa-shopping-cart"></i> <?php echo esc_html__( 'My Cart', 'tyche' ); ?>
-								- <?php echo esc_html( get_woocommerce_currency_symbol( get_woocommerce_currency() ) . ' ' . Tyche_WooCommerce_Hooks::get_cart_total() ); ?>
+								- <?php echo esc_html(  number_format(Tyche_WooCommerce_Hooks::get_cart_total()) . ' ' . get_woocommerce_currency_symbol( get_woocommerce_currency() ) ); ?>
 							</a>
 						</li> <!-- / Cart -->
 					<?php endif; ?>
