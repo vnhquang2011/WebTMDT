@@ -11576,7 +11576,7 @@ msgstr "Giá thấp đến cao"
 
 #: includes/wc-template-functions.php:1303
 msgid "Sort by price: high to low"
-msgstr "Giá cao xuống thấp"
+msgstr "Giá cao xuống thấp"
 
 #: includes/wc-template-functions.php:1300
 msgid "Sort by average rating"
