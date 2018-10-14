@@ -1,0 +1,870 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woocommerce - Giao Hàng Nhanh (GHN)\n"
+"POT-Creation-Date: 2018-06-08 01:19+0700\n"
+"PO-Revision-Date: 2018-06-08 01:19+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: devvn-woo-ghn.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: devvn-woo-ghn.php:181 devvn-woo-ghn.php:182
+msgid "Cài đặt GHN"
+msgstr ""
+
+#: devvn-woo-ghn.php:215 devvn-woo-ghn.php:273 devvn-woo-ghn.php:600
+msgid "Họ tên"
+msgstr ""
+
+#: devvn-woo-ghn.php:216 devvn-woo-ghn.php:601
+msgctxt "placeholder"
+msgid "Nhập họ tên của bạn"
+msgstr ""
+
+#: devvn-woo-ghn.php:230 devvn-woo-ghn.php:293
+#: includes/class-ghn-shipping.php:770 includes/class-ghn-shipping.php:1082
+#: includes/options-allhubs.php:61 includes/options-allhubs.php:173
+msgid "Khu vực"
+msgstr ""
+
+#: devvn-woo-ghn.php:234 devvn-woo-ghn.php:297
+msgctxt "placeholder"
+msgid "Chọn khu vực"
+msgstr ""
+
+#: devvn-woo-ghn.php:235 devvn-woo-ghn.php:298 includes/options-allhubs.php:64
+#: includes/options-allhubs.php:176
+msgid "Chọn khu vực"
+msgstr ""
+
+#: devvn-woo-ghn.php:240 devvn-woo-ghn.php:303 devvn-woo-ghn.php:612
+msgid "Xã/Phường/thị trấn"
+msgstr ""
+
+#: devvn-woo-ghn.php:244 devvn-woo-ghn.php:307 devvn-woo-ghn.php:615
+msgctxt "placeholder"
+msgid "Chọn xã/Phường/thị trấn"
+msgstr ""
+
+#: devvn-woo-ghn.php:254 devvn-woo-ghn.php:318
+msgctxt "placeholder"
+msgid "Ví dụ: số 20 Ngõ 90"
+msgstr ""
+
+#: devvn-woo-ghn.php:274
+msgctxt "placeholder"
+msgid "Họ tên của bạn"
+msgstr ""
+
+#: devvn-woo-ghn.php:282 includes/class-ghn-shipping.php:746
+#: includes/class-ghn-shipping.php:1058
+msgid "Số điện thoại"
+msgstr ""
+
+#: devvn-woo-ghn.php:283
+msgctxt "placeholder"
+msgid "Số điện thoại"
+msgstr ""
+
+#: devvn-woo-ghn.php:377 devvn-woo-ghn.php:562
+msgid "No value"
+msgstr "Không có giá trị"
+
+#: devvn-woo-ghn.php:529
+msgid "Phone number of the recipient"
+msgstr "Số điện thoại của người nhận"
+
+#: devvn-woo-ghn.php:542
+msgid "Shipping Phone:"
+msgstr "Số điện thoại:"
+
+#: devvn-woo-ghn.php:579
+msgid "Province/City"
+msgstr "Khu vực"
+
+#: devvn-woo-ghn.php:634 devvn-woo-ghn.php:685
+msgid "First name"
+msgstr "Họ"
+
+#: devvn-woo-ghn.php:638 devvn-woo-ghn.php:689
+msgid "Last name"
+msgstr "Tên"
+
+#: devvn-woo-ghn.php:642 devvn-woo-ghn.php:693
+msgid "Company"
+msgstr "Công ty"
+
+#: devvn-woo-ghn.php:646 devvn-woo-ghn.php:697
+msgid "Country"
+msgstr "Quốc gia"
+
+#: devvn-woo-ghn.php:650 devvn-woo-ghn.php:701
+msgid "Select a country&hellip;"
+msgstr "Chọn quốc gia&hellip;"
+
+#: devvn-woo-ghn.php:653 devvn-woo-ghn.php:704
+msgid "Tỉnh/thành phố"
+msgstr ""
+
+#: devvn-woo-ghn.php:658
+msgid "Xã phường"
+msgstr ""
+
+#: devvn-woo-ghn.php:662
+msgid "Chọn xã/phường&hellip;"
+msgstr ""
+
+#: devvn-woo-ghn.php:665 devvn-woo-ghn.php:716
+msgid "Address line 1"
+msgstr "Địa chỉ dòng 1"
+
+#: devvn-woo-ghn.php:669
+msgid "Email address"
+msgstr "Địa chỉ Email"
+
+#: devvn-woo-ghn.php:672
+msgid "Phone"
+msgstr "Số điện thoại"
+
+#: devvn-woo-ghn.php:709
+msgid "Quận/huyện"
+msgstr ""
+
+#: devvn-woo-ghn.php:713
+msgid "Chọn quận/huyện&hellip;"
+msgstr ""
+
+#: devvn-woo-ghn.php:787
+msgid "Settings"
+msgstr "Cài đặt"
+
+#: devvn-woo-ghn.php:797
+msgid "Check đơn hàng"
+msgstr ""
+
+#: devvn-woo-ghn.php:798
+msgid "In hóa đơn GHN"
+msgstr ""
+
+#: devvn-woo-ghn.php:799
+msgid "In hóa đơn theo mẫu riêng"
+msgstr ""
+
+#: devvn-woo-ghn.php:924 devvn-woo-ghn.php:978
+msgid "Choose an option"
+msgstr "Chọn lựa chọn"
+
+#: devvn-woo-ghn.php:930
+msgid "required"
+msgstr "bắt buộc"
+
+#: devvn-woo-ghn.php:1066
+#, php-format
+msgid ""
+"<div class=\"%1$s\"><p>Hãy điền  <strong>Token Key</strong> của GHN để "
+"plugin hoạt động chính xác. Nếu không điền Token Key mặc định sẽ sử dụng "
+"TokenTest của GHN. <a href=\"%2$s\">Thêm tại đây</a></p></div>"
+msgstr ""
+
+#: devvn-woo-ghn.php:1078
+#, php-format
+msgid ""
+"<strong>Mua bản quyền để được tự động update. <a href=\"%s\" target=\"_blank"
+"\">Xem thêm thông tin mua bản quyền</a></strong>"
+msgstr ""
+
+#: devvn-woo-ghn.php:1084
+#, php-format
+msgid "Phát triển bởi %sLê Văn Toản%s."
+msgstr ""
+
+#. translators: %s template
+#: devvn-woo-ghn.php:1100
+#, php-format
+msgid "%s không tồn tại."
+msgstr ""
+
+#: includes/class-ghn-shipping.php:20
+msgid "Giao hàng nhanh (GHN)"
+msgstr ""
+
+#: includes/class-ghn-shipping.php:21
+msgid "Tính phí vận chuyển và đồng bộ đơn hàng với giao hàng nhanh (GHN)"
+msgstr ""
+
+#: includes/class-ghn-shipping.php:48
+msgid "Kích hoạt"
+msgstr ""
+
+#: includes/class-ghn-shipping.php:50
+msgid "Kích hoạt tính phí vận chuyển bằng GHN"
+msgstr ""
+
+#: includes/class-ghn-shipping.php:54
+msgid "Tiêu đề"
+msgstr ""
+
+#: includes/class-ghn-shipping.php:56
+msgid "Mô tả cho phương thức vận chuyển"
+msgstr ""
+
+#: includes/class-ghn-shipping.php:57
+msgid "Vận chuyển qua GHN"
+msgstr ""
+
+#: includes/class-ghn-shipping.php:486
+msgid "Thêm cửa hàng/kho thành công! Đang làm mới..."
+msgstr ""
+
+#: includes/class-ghn-shipping.php:647
+msgid "Giao Hàng NHANH (GHN)"
+msgstr ""
+
+#: includes/class-ghn-shipping.php:663 includes/class-order-style.php:150
+#, php-format
+msgid "<strong>Mã vận đơn:</strong> %s"
+msgstr ""
+
+#: includes/class-ghn-shipping.php:666 includes/class-order-style.php:153
+#, php-format
+msgid "<strong>Trạng thái:</strong> %s"
+msgstr ""
+
+#: includes/class-ghn-shipping.php:669
+msgid "Chỉnh sửa đơn hàng"
+msgstr ""
+
+#: includes/class-ghn-shipping.php:670
+msgid "Kiểm tra đơn hàng"
+msgstr ""
+
+#: includes/class-ghn-shipping.php:671
+msgid "Hủy đơn hàng"
+msgstr ""
+
+#: includes/class-ghn-shipping.php:673
+msgid "Tạo vận đơn"
+msgstr ""
+
+#: includes/class-ghn-shipping.php:704 includes/class-ghn-shipping.php:1016
+msgid "Đăng đơn hàng lên GHN"
+msgstr ""
+
+#: includes/class-ghn-shipping.php:709 includes/class-ghn-shipping.php:712
+#: includes/class-ghn-shipping.php:1021 includes/class-ghn-shipping.php:1024
+msgid "Chọn cửa hàng/kho"
+msgstr ""
+
+#: includes/class-ghn-shipping.php:738 includes/class-ghn-shipping.php:1050
+msgid "Họ và tên"
+msgstr ""
+
+#: includes/class-ghn-shipping.php:754 includes/class-ghn-shipping.php:1066
+#: includes/options-allhubs.php:53 includes/options-allhubs.php:165
+msgid "Địa chỉ"
+msgstr ""
+
+#: includes/class-ghn-shipping.php:762 includes/class-ghn-shipping.php:1074
+msgid "Phường/Xã"
+msgstr ""
+
+#: includes/class-ghn-shipping.php:813 includes/class-ghn-shipping.php:1125
+msgid "Gói hàng"
+msgstr ""
+
+#: includes/class-ghn-shipping.php:817 includes/class-ghn-shipping.php:1129
+msgid "Mã đơn hệ thống"
+msgstr ""
+
+#: includes/class-ghn-shipping.php:823 includes/class-ghn-shipping.php:1135
+msgid "Giá trị gói hàng"
+msgstr ""
+
+#: includes/class-ghn-shipping.php:829 includes/class-ghn-shipping.php:1141
+msgid "Khối lượng"
+msgstr ""
+
+#: includes/class-ghn-shipping.php:836 includes/class-ghn-shipping.php:1147
+msgid "Kích thước (cm)"
+msgstr ""
+
+#: includes/class-ghn-shipping.php:847 includes/class-ghn-shipping.php:1155
+#: includes/options-generals.php:20
+msgid "Ghi chú bắt buộc"
+msgstr ""
+
+#: includes/class-ghn-shipping.php:853 includes/class-ghn-shipping.php:1158
+#: includes/options-generals.php:23
+msgid "Cho xem hàng, không cho thử"
+msgstr ""
+
+#: includes/class-ghn-shipping.php:854 includes/class-ghn-shipping.php:1159
+#: includes/options-generals.php:24
+msgid "Cho thử hàng"
+msgstr ""
+
+#: includes/class-ghn-shipping.php:855 includes/class-ghn-shipping.php:1160
+#: includes/options-generals.php:25
+msgid "Không cho thử hàng"
+msgstr ""
+
+#: includes/class-ghn-shipping.php:860 includes/class-ghn-shipping.php:1165
+msgid "Ghi chú"
+msgstr ""
+
+#: includes/class-ghn-shipping.php:893 includes/class-ghn-shipping.php:1198
+#: includes/class-ghn-shipping.php:1336
+msgid "Dự kiến giao"
+msgstr ""
+
+#: includes/class-ghn-shipping.php:906 includes/class-ghn-shipping.php:1211
+msgid "Người thanh toán:"
+msgstr ""
+
+#: includes/class-ghn-shipping.php:907 includes/class-ghn-shipping.php:1212
+msgid "Người gửi"
+msgstr ""
+
+#: includes/class-ghn-shipping.php:908 includes/class-ghn-shipping.php:1213
+msgid "Người nhận"
+msgstr ""
+
+#: includes/class-ghn-shipping.php:911 includes/class-ghn-shipping.php:1216
+msgid "Tiền thu hộ (COD):"
+msgstr ""
+
+#: includes/class-ghn-shipping.php:915 includes/class-ghn-shipping.php:1220
+msgid "Mã khuyến mại:"
+msgstr ""
+
+#: includes/class-ghn-shipping.php:919 includes/class-ghn-shipping.php:1233
+msgid "Gửi hàng tại điểm giao dịch (-2.000đ):"
+msgstr ""
+
+#: includes/class-ghn-shipping.php:920 includes/class-ghn-shipping.php:1234
+msgid "Có"
+msgstr ""
+
+#: includes/class-ghn-shipping.php:921 includes/class-ghn-shipping.php:1235
+msgid "Không"
+msgstr ""
+
+#: includes/class-ghn-shipping.php:932
+msgid "Tạo đơn hàng"
+msgstr ""
+
+#: includes/class-ghn-shipping.php:933
+msgid "Hủy tạo"
+msgstr ""
+
+#: includes/class-ghn-shipping.php:1039
+msgid ""
+"Phần này là tự động. Trong trường hợp thay đổi chi nhanh có thể sẽ làm phí "
+"vận chuyển thay đổi."
+msgstr ""
+
+#: includes/class-ghn-shipping.php:1046
+msgid "Thông tin khách hàng"
+msgstr ""
+
+#: includes/class-ghn-shipping.php:1091
+msgid "Thông tin sản phẩm"
+msgstr ""
+
+#: includes/class-ghn-shipping.php:1095
+msgid "Tên sp"
+msgstr ""
+
+#: includes/class-ghn-shipping.php:1096
+msgid "Weight"
+msgstr ""
+
+#: includes/class-ghn-shipping.php:1097
+msgid "SL"
+msgstr ""
+
+#: includes/class-ghn-shipping.php:1149
+msgid "dài"
+msgstr ""
+
+#: includes/class-ghn-shipping.php:1150
+msgid "rộng"
+msgstr ""
+
+#: includes/class-ghn-shipping.php:1151
+msgid "cao"
+msgstr ""
+
+#: includes/class-ghn-shipping.php:1172
+msgid "Gói cước"
+msgstr ""
+
+#: includes/class-ghn-shipping.php:1246
+msgid "Cập nhật"
+msgstr ""
+
+#: includes/class-ghn-shipping.php:1247
+msgid "Hủy chỉnh sửa"
+msgstr ""
+
+#: includes/class-ghn-shipping.php:1429
+msgid "Đăng đơn thành công! Đang tải lại..."
+msgstr ""
+
+#: includes/class-ghn-shipping.php:1432 includes/class-ghn-shipping.php:1518
+#: includes/class-ghn-shipping.php:1626 includes/class-ghn-shipping.php:1699
+msgid "Lỗi không xác định"
+msgstr ""
+
+#: includes/class-ghn-shipping.php:1516
+msgid "Cập nhật thành công! Đang tải lại..."
+msgstr ""
+
+#: includes/class-ghn-shipping.php:1544
+msgid "Đã hủy đơn hàng thành công"
+msgstr ""
+
+#: includes/class-ghn-shipping.php:1556
+msgid "Không xác định"
+msgstr ""
+
+#: includes/class-ghn-shipping.php:1559
+msgid "Đơn hàng mới tạo"
+msgstr ""
+
+#: includes/class-ghn-shipping.php:1562
+msgid "Đang đi lấy hàng"
+msgstr ""
+
+#: includes/class-ghn-shipping.php:1565
+msgid "Đã nhận được và chuyển hàng hóa về kho lưu trữ"
+msgstr ""
+
+#: includes/class-ghn-shipping.php:1568
+msgid "Đang đi giao hàng"
+msgstr ""
+
+#: includes/class-ghn-shipping.php:1571
+msgid "Đã giao hàng thành công"
+msgstr ""
+
+#: includes/class-ghn-shipping.php:1574
+msgid "Trả lại sau 3 lần giao thất bại"
+msgstr ""
+
+#: includes/class-ghn-shipping.php:1577
+msgid "Đã trả lại"
+msgstr ""
+
+#: includes/class-ghn-shipping.php:1580
+msgid "Đang được xử lý để hoàn thành"
+msgstr ""
+
+#: includes/class-ghn-shipping.php:1583
+msgid "Đơn hàng đã hoàn thành"
+msgstr ""
+
+#: includes/class-ghn-shipping.php:1586
+msgid "Đã hủy"
+msgstr ""
+
+#: includes/class-ghn-shipping.php:1589
+msgid "Thất lạc hàng"
+msgstr ""
+
+#: includes/class-ghn-shipping.php:1617
+#, php-format
+msgid "Trạng thái đơn hàng: %s"
+msgstr ""
+
+#: includes/class-ghn-shipping.php:1683
+msgid "Webhook URL không được để trống!"
+msgstr ""
+
+#: includes/class-ghn-shipping.php:1697
+msgid "Đăng ký webhook thành công. Đang lưu cài đặt và tải lại trang web ..."
+msgstr ""
+
+#. translators: 1: first name 2: last name
+#: includes/class-order-style.php:83
+#, php-format
+msgctxt "full name"
+msgid "%1$s %2$s"
+msgstr ""
+
+#: includes/class-order-style.php:87
+msgid "Guest"
+msgstr ""
+
+#: includes/class-order-style.php:91
+#, php-format
+msgid "%1$s <br> %2$s<br>"
+msgstr ""
+
+#: includes/class-order-style.php:120
+msgid "Via"
+msgstr ""
+
+#: includes/class-order-style.php:122
+msgid "Xem chi tiết"
+msgstr ""
+
+#: includes/class-order-style.php:123
+msgid "Show more details"
+msgstr ""
+
+#. translators: %d: notes count
+#: includes/class-order-style.php:184
+#, php-format
+msgid "%d tin nhắn"
+msgid_plural "%d tin nhắn"
+msgstr[0] ""
+
+#: includes/class-vncheckout-vnd-paypal-standard.php:77
+#, php-format
+msgid ""
+"The prices will be converted to %1$s in the PayPal pages with the exchange "
+"rate %2$s."
+msgstr ""
+
+#: includes/options-allhubs.php:5 includes/options-webhook.php:8
+#, php-format
+msgid ""
+"Bạn đang ở chế độ TEST nên không xem được phần này. Hãy điền Token Key <a "
+"href=\"%s\">tại đây</a> để sử dụng chức năng này."
+msgstr ""
+
+#: includes/options-allhubs.php:8
+msgid "Thêm kho"
+msgstr ""
+
+#: includes/options-allhubs.php:31
+msgid "Kho"
+msgstr ""
+
+#: includes/options-allhubs.php:32
+msgid "Chọn tỉnh/quận huyện mà cửa hàng/kho này sẽ giao hàng."
+msgstr ""
+
+#: includes/options-allhubs.php:32
+msgid "Khu vực bán hàng"
+msgstr ""
+
+#: includes/options-allhubs.php:38
+msgid "Mã kho"
+msgstr ""
+
+#: includes/options-allhubs.php:45 includes/options-allhubs.php:157
+msgid "Tên người liên hệ"
+msgstr ""
+
+#: includes/options-allhubs.php:49 includes/options-allhubs.php:161
+msgid "Số điện thoại liên hệ"
+msgstr ""
+
+#: includes/options-allhubs.php:57 includes/options-allhubs.php:169
+msgid "Email"
+msgstr ""
+
+#: includes/options-allhubs.php:76 includes/options-allhubs.php:188
+msgid "Kho chính"
+msgstr ""
+
+#: includes/options-allhubs.php:83
+msgid "Cập nhật thông tin"
+msgstr ""
+
+#: includes/options-allhubs.php:106
+#, php-format
+msgid "Khu vực bán hàng của kho #%s"
+msgstr ""
+
+#: includes/options-allhubs.php:107
+msgid "Tìm nhanh theo tên"
+msgstr ""
+
+#: includes/options-allhubs.php:108
+msgid "Chọn/Bỏ toàn bộ"
+msgstr ""
+
+#: includes/options-allhubs.php:132
+msgid "Lưu"
+msgstr ""
+
+#: includes/options-allhubs.php:133
+msgid "Đóng"
+msgstr ""
+
+#: includes/options-allhubs.php:144
+msgid "Chưa có kho hàng nào"
+msgstr ""
+
+#: includes/options-allhubs.php:152
+msgid "Thêm kho hàng/cửa hàng mới"
+msgstr ""
+
+#: includes/options-allhubs.php:197
+msgid "Thêm"
+msgstr ""
+
+#: includes/options-allhubs.php:198
+msgid "Hủy"
+msgstr ""
+
+#: includes/options-generals.php:9
+msgid "GHN API"
+msgstr ""
+
+#: includes/options-generals.php:13
+msgid "Token Key"
+msgstr ""
+
+#: includes/options-generals.php:16
+#, php-format
+msgid "Lấy token key <a href=\"%s\" target=\"_blank\">tại đây</a>"
+msgstr ""
+
+#: includes/options-generals.php:27
+msgid "Ghi chú bắt buộc khi đăng đơn lên GHN"
+msgstr ""
+
+#: includes/options-generals.php:31
+msgid "Mã liên kết"
+msgstr ""
+
+#: includes/options-generals.php:34
+msgid "Không bắt buộc. Nếu là đối tác hãy liên hệ với GHN để có mã này."
+msgstr ""
+
+#: includes/options-generals.php:39
+msgid "General"
+msgstr ""
+
+#: includes/options-generals.php:43 includes/options-generals.php:45
+msgid "Ẩn mục phường/xã"
+msgstr ""
+
+#: includes/options-generals.php:49
+msgid "KHÔNG bắt buộc nhập phường/xã"
+msgstr ""
+
+#: includes/options-generals.php:51
+msgid "Không bắt buộc"
+msgstr ""
+
+#: includes/options-generals.php:55
+msgid "Chuyển ₫ sang VNĐ"
+msgstr ""
+
+#: includes/options-generals.php:57
+msgid "Cho phép chuyển sang VNĐ"
+msgstr ""
+
+#: includes/options-generals.php:62
+msgid "Loại bỏ tiêu đề vận chuyển"
+msgstr ""
+
+#: includes/options-generals.php:64
+msgid "Loại bỏ hoàn toàn tiêu đề của phương thức vận chuyển"
+msgstr ""
+
+#: includes/options-generals.php:68
+msgid "Ẩn phương thức khi có free-shipping"
+msgstr ""
+
+#: includes/options-generals.php:70
+msgid "Ẩn tất cả những phương thức vận chuyển khác khi có miễn phí vận chuyển"
+msgstr ""
+
+#: includes/options-generals.php:74 includes/options-generals.php:131
+msgid "Số quy đổi"
+msgstr ""
+
+#: includes/options-generals.php:77
+msgid "Thương số quy đổi. Mặc định theo GHN là 5000"
+msgstr ""
+
+#: includes/options-generals.php:81
+msgid "Kích hoạt chuyển đổi VNĐ sang USD"
+msgstr ""
+
+#: includes/options-generals.php:83
+msgid "Kích hoạt chuyển đổi VNĐ sang USD để có thể sử dụng paypal"
+msgstr ""
+
+#: includes/options-generals.php:87
+msgid "VNĐ quy đổi sang tiền"
+msgstr ""
+
+#: includes/options-generals.php:134
+msgid "Tỷ giá quy đổi từ VNĐ"
+msgstr ""
+
+#: includes/options-generals.php:138
+msgid "Thay đổi giao diện trang đơn hàng"
+msgstr ""
+
+#: includes/options-generals.php:140
+msgid "Thay đổi giao diện trang danh sách đơn hàng"
+msgstr ""
+
+#: includes/options-generals.php:144
+msgid "Alepay"
+msgstr ""
+
+#: includes/options-generals.php:146
+msgid "Hỗ trợ thanh toán qua Alepay"
+msgstr ""
+
+#: includes/options-generals.php:153
+msgid "Hiện trường Postcode"
+msgstr ""
+
+#: includes/options-license.php:12 includes/options-page.php:12
+msgid "License"
+msgstr ""
+
+#: includes/options-license.php:17
+msgid "License Key"
+msgstr ""
+
+#: includes/options-page.php:6
+msgid "Giao hàng nhanh"
+msgstr ""
+
+#: includes/options-page.php:9
+msgid "Cài đặt chung"
+msgstr ""
+
+#: includes/options-page.php:10
+msgid "Cửa hàng/Kho"
+msgstr ""
+
+#: includes/options-page.php:11
+msgid "Webhook"
+msgstr ""
+
+#: includes/options-page.php:13
+msgid "Giới thiệu"
+msgstr ""
+
+#: includes/options-webhook.php:4
+msgid "Cài đặt Webhook"
+msgstr ""
+
+#: includes/options-webhook.php:11
+msgid ""
+"Bắt buộc website phải có SSL (https://) để có thể đăng ký webhook trên GHN"
+msgstr ""
+
+#: includes/options-webhook.php:30
+msgid ""
+"<p class=\"error-message\">Webhook URL chưa được đăng ký. Hãy ấn vào button "
+"đăng ký bên dưới để đăng ký Webhook URL.</p>"
+msgstr ""
+
+#: includes/options-webhook.php:37
+msgid "Webhook URL"
+msgstr ""
+
+#: includes/options-webhook.php:41
+msgid "Làm mới webhook URL"
+msgstr ""
+
+#: includes/options-webhook.php:48
+msgid "Đăng ký và lưu webhook URL"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Woocommerce - Giao Hàng Nhanh (GHN)"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"https://levantoan.com/san-pham/plugin-ket-noi-giao-hang-nhanh-voi-"
+"woocommerce/"
+msgstr ""
+"https://levantoan.com/san-pham/plugin-ket-noi-giao-hang-nhanh-voi-"
+"woocommerce/"
+
+#. Description of the plugin/theme
+msgid ""
+"Tính phí vận chuyển, đăng đơn, kiểm tra tình trạng đơn hàng với giao hàng "
+"nhanh (GHN)"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "GHN - Dev by Le Van Toan"
+msgstr "GHN - Dev by Le Van Toan"
+
+#. Author URI of the plugin/theme
+msgid "http://levantoan.com"
+msgstr "http://levantoan.com"
+
+#~ msgid "Full name"
+#~ msgstr "Họ và tên"
+
+#~ msgctxt "placeholder"
+#~ msgid "Type Full name"
+#~ msgstr "Nhập đầy đủ họ và tên"
+
+#~ msgid "Commune/Ward/Town"
+#~ msgstr "Xã/Phường/thị trấn"
+
+#~ msgctxt "placeholder"
+#~ msgid "Select Commune/Ward/Town"
+#~ msgstr "Chọn xã/Phường/thị trấn"
+
+#~ msgctxt "placeholder"
+#~ msgid "Ex: No. 20, 90 Alley"
+#~ msgstr "Ví dụ: Số 20, ngõ 90"
+
+#~ msgctxt "placeholder"
+#~ msgid "Phone"
+#~ msgstr "Số điện thoại"
+
+#~ msgctxt "placeholder"
+#~ msgid "Select Province/City"
+#~ msgstr "Chọn khu vực"
+
+#~ msgid "Select Province/City"
+#~ msgstr "Chọn khu vực"
+
+#~ msgid "Woo Vietnam Checkout Setting"
+#~ msgstr "Cài đặt trang thanh toán"
+
+#~ msgid "Vietnam Checkout"
+#~ msgstr "Woocommerce Việt Nam"
+
+#~ msgid "District"
+#~ msgstr "Quận/Huyện"
+
+#~ msgctxt "placeholder"
+#~ msgid "Select District"
+#~ msgstr "Chọn quận huyện"
+
+#~ msgid "District Zone"
+#~ msgstr "Quận/Huyện"
+
+#~ msgid "Woocommerce Vietnam Checkout PRO"
+#~ msgstr "Woocommerce Vietnam Checkout PRO"
+
+#~ msgid ""
+#~ "Add province/city, district, commune/ward/town to checkout form and "
+#~ "simplify checkout form"
+#~ msgstr ""
+#~ "Thêm tỉnh/thành phố, quận huyện, xã/phường/thị trấn vào form checkout của "
+#~ "woocommerce và tối giản form checkout cho phù hợp với Việt Nam"
