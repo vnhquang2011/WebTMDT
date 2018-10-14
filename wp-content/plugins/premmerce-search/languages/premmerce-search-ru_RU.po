@@ -1,0 +1,91 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Premmerce search\n"
+"POT-Creation-Date: 2018-06-22 15:05+0300\n"
+"PO-Revision-Date: 2018-06-22 15:05+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: freemius\n"
+"X-Poedit-SearchPathExcluded-1: build\n"
+
+#: src/Admin/Admin.php:89 src/Admin/Admin.php:90
+msgid "Search settings"
+msgstr "Настройки поиска"
+
+#: src/Admin/Admin.php:137
+msgid "Settings"
+msgstr "Настройки"
+
+#: src/Admin/Admin.php:141
+msgid "Account"
+msgstr "Аккаунт"
+
+#: src/Admin/Admin.php:143
+msgid "Contact Us"
+msgstr "Свяжитесь с нами"
+
+#: src/Admin/Admin.php:144
+msgid "Pricing"
+msgstr "Цены"
+
+#: src/Admin/Admin.php:167
+msgid "Minimum symbols to start a live search"
+msgstr "Минимальное количество символов для начала живого поиска"
+
+#: src/Admin/Admin.php:182
+msgid "The number of live search (autocomplete) results"
+msgstr "Количество результатов живого поиска (автозаполнения)"
+
+#: src/Admin/Admin.php:197
+msgid "Additional fields for search"
+msgstr "Дополнительные поля для поиска"
+
+#: src/Frontend/RestController.php:81
+msgid "All search results"
+msgstr "Все результаты поиска"
+
+#: src/SearchPlugin.php:113
+#, php-format
+msgid "The %s plugin requires %s plugin to be active!"
+msgstr "Для работы плагина %s нужен плагин %s"
+
+#: views/admin/fields/where-to-search-checkboxes.php:6
+msgid "Products SKU"
+msgstr "Артикул товара"
+
+#: views/admin/fields/where-to-search-checkboxes.php:13
+msgid "Short description"
+msgstr "Краткое описание"
+
+#: views/admin/main.php:4
+msgid "Premmerce Search"
+msgstr "Premmerce Search"
+
+#: views/admin/tabs/settings.php:16
+msgid "Update indexes"
+msgstr "Обновить индексы"
+
+#: views/admin/tabs/settings.php:19
+msgid ""
+"We recommend that you update the indexes after the products have been changed"
+msgstr "Рекомендуем обновлять индексы после внесения изменений в товары"
+
+#~ msgid "The allowable number of mistakes in a word for a live search"
+#~ msgstr "Допустимое количество ошибок в слове для живого поиска"
+
+#~ msgid "The number of live search(autocomplete) results"
+#~ msgstr "Количество результатов живого поиска(автозаполнения)"
+
+#~ msgid "This plugin requires %s plugin to be active!"
+#~ msgstr "Для работы плагина %s нужен плагин %s"

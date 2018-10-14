@@ -1,0 +1,83 @@
+[
+    {
+        "name": "behat/transliterator",
+        "version": "v1.2.0",
+        "version_normalized": "1.2.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/Behat/Transliterator.git",
+            "reference": "826ce7e9c2a6664c0d1f381cbb38b1fb80a7ee2c"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/Behat/Transliterator/zipball/826ce7e9c2a6664c0d1f381cbb38b1fb80a7ee2c",
+            "reference": "826ce7e9c2a6664c0d1f381cbb38b1fb80a7ee2c",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.3"
+        },
+        "require-dev": {
+            "chuyskywalker/rolling-curl": "^3.1",
+            "php-yaoi/php-yaoi": "^1.0"
+        },
+        "time": "2017-04-04T11:38:05+00:00",
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "1.2-dev"
+            }
+        },
+        "installation-source": "dist",
+        "autoload": {
+            "psr-0": {
+                "Behat\\Transliterator": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "Artistic-1.0"
+        ],
+        "description": "String transliterator",
+        "keywords": [
+            "i18n",
+            "slug",
+            "transliterator"
+        ]
+    },
+    {
+        "name": "premmerce/wordpress-sdk",
+        "version": "v2.0",
+        "version_normalized": "2.0.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/Premmerce/wordpress-sdk.git",
+            "reference": "424b120d2b40f2434492c71d3535903e759f1ec7"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/Premmerce/wordpress-sdk/zipball/424b120d2b40f2434492c71d3535903e759f1ec7",
+            "reference": "424b120d2b40f2434492c71d3535903e759f1ec7",
+            "shasum": ""
+        },
+        "time": "2018-06-01T13:18:25+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Premmerce\\SDK\\": "src"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "GPL-2.0+"
+        ],
+        "authors": [
+            {
+                "name": "Premmerce",
+                "email": "info@premme.com"
+            }
+        ],
+        "description": "Wordpress SDK for premmerce plugins"
+    }
+]

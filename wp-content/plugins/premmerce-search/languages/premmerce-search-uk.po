@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Premmerce search\n"
+"POT-Creation-Date: 2018-06-22 15:04+0300\n"
+"PO-Revision-Date: 2018-06-22 15:04+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: build/src/Admin/Admin.php:89 build/src/Admin/Admin.php:90
+#: src/Admin/Admin.php:89 src/Admin/Admin.php:90
+msgid "Search settings"
+msgstr "Налаштування пошуку"
+
+#: build/src/Admin/Admin.php:137 src/Admin/Admin.php:137
+msgid "Settings"
+msgstr "Налаштування"
+
+#: build/src/Admin/Admin.php:141 src/Admin/Admin.php:141
+msgid "Account"
+msgstr "Аккаунт"
+
+#: build/src/Admin/Admin.php:143 src/Admin/Admin.php:143
+msgid "Contact Us"
+msgstr "Зв'яжіться з нами"
+
+#: build/src/Admin/Admin.php:144 src/Admin/Admin.php:144
+msgid "Pricing"
+msgstr "Ціни"
+
+#: build/src/Admin/Admin.php:167 src/Admin/Admin.php:167
+msgid "Minimum symbols to start a live search"
+msgstr "Мінімальна кількість символів для початку живого пошуку"
+
+#: build/src/Admin/Admin.php:182 src/Admin/Admin.php:182
+msgid "The number of live search (autocomplete) results"
+msgstr "Кількість результатів живого пошуку (автозаповнення)"
+
+#: build/src/Admin/Admin.php:197 src/Admin/Admin.php:197
+msgid "Additional fields for search"
+msgstr "Додаткові поля для пошуку"
+
+#: build/src/Frontend/RestController.php:81 src/Frontend/RestController.php:81
+msgid "All search results"
+msgstr "Всі результати пошуку"
+
+#: build/src/SearchPlugin.php:113 src/SearchPlugin.php:113
+#, php-format
+msgid "The %s plugin requires %s plugin to be active!"
+msgstr "Для роботи плагіна %s потрібен плагін %s"
+
+#: build/views/admin/fields/where-to-search-checkboxes.php:6
+#: views/admin/fields/where-to-search-checkboxes.php:6
+msgid "Products SKU"
+msgstr "Артикул товару"
+
+#: build/views/admin/fields/where-to-search-checkboxes.php:13
+#: views/admin/fields/where-to-search-checkboxes.php:13
+msgid "Short description"
+msgstr "Короткий опис"
+
+#: build/views/admin/main.php:4 views/admin/main.php:4
+msgid "Premmerce Search"
+msgstr "Premmerce Search"
+
+#: build/views/admin/tabs/settings.php:16 views/admin/tabs/settings.php:16
+msgid "Update indexes"
+msgstr "Оновити індекси"
+
+#: build/views/admin/tabs/settings.php:19 views/admin/tabs/settings.php:19
+msgid ""
+"We recommend that you update the indexes after the products have been changed"
+msgstr "Рекомендуємо оновлювати індекси після внесення змін до товарів"
+
+#~ msgid "The allowable number of mistakes in a word for a live search"
+#~ msgstr "Допустима кількість помилок у слові для живого пошуку"
+
+#~ msgid "The number of live search(autocomplete) results"
+#~ msgstr "Кількість результатів живого пошуку(автозаповнення)"
+
+#~ msgid "This plugin requires %s plugin to be active!"
+#~ msgstr "Для цього плагіна вам необхідний плагін %s!"
